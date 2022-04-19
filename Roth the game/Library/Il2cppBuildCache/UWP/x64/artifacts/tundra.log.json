@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"Il2Cpp G:/beto 2021/Universidad 2020-2/tesis/UNITY videojuego/Roth the game 10-09/Roth the game/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp G:/beto 2021/Universidad 2020-2/tesis/UNITY videojuego/Roth the game 10-09/Roth the game/Library/Il2cppBuildCache/UWP/x64/il2cppOutput/Data/Metadata/global-metadata.dat","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"all_tundra_nodes","index":0}

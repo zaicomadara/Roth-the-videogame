@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pinchos
+  - Line
+  - Dialogo
+  - Pinchoss
+  - gif
+  - corazon
+  - Borrador
+  - Fuego
+  - ColFuego
+  - Poder1
+  - Poder2
+  - corazon2
+  - corazon3
+  - Bandera1
+  - Bandera2
+  - Bandera3
+  - Bandera4
+  - Bandera5
+  - Grafito
+  - LineEscudo
+  - Poder3
+  - Poder4
+  - Poder5
+  - Poder6
+  - Flamita
+  - Bandera6
+  - Bandera7
+  - Bandera8
+  - Bandera9
+  - Bandera10
+  - Bandera11
+  - Bandera12
+  - Flameblue
+  - Angbola
+  - Ang15
+  - Ang30
+  - Ang45
+  - Ang60
+  - Ang75
+  - Ang90
+  - Ang105
+  - Ang120
+  - Ang135
+  - Ang150
+  - Ang165
+  - Ang180
+  - Compas
+  - Compas4
+  - Compas3
+  - Compas2
+  - Boss
+  - Compas5
+  - M30
+  - M45
+  - M60
+  - E30
+  - E60
+  - E45
+  - Cocodrilo
+  - M90
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - mouse
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mouse
+    uniqueID: 745399415
+    locked: 0
+  - name: Player
+    uniqueID: 360179077
+    locked: 0

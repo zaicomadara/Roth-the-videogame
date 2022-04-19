@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 65e4ac48007627745bd2b86954aa2782
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6171300502046711664
+    second: ataque boss_0
+  - first:
+      213: -4342444298516433888
+    second: ataque boss_1
+  - first:
+      213: 3985902238699703790
+    second: ataque boss_2
+  - first:
+      213: 6005570771713053705
+    second: ataque boss_3
+  - first:
+      213: 8335354586153806180
+    second: ataque boss_4
+  - first:
+      213: 7333958099127040725
+    second: ataque boss_5
+  - first:
+      213: -2412748884098258710
+    second: ataque boss_6
+  - first:
+      213: -3057928343329773615
+    second: ataque boss_7
+  - first:
+      213: 5503423297972821372
+    second: ataque boss_8
+  - first:
+      213: 1147260377061343408
+    second: ataque boss_9
+  - first:
+      213: -8999099141905442803
+    second: ataque boss_10
+  - first:
+      213: -9036119871047769199
+    second: ataque boss_11
+  - first:
+      213: -2588286066521130223
+    second: ataque boss_12
+  - first:
+      213: -3170830162495074495
+    second: ataque boss_13
+  - first:
+      213: -5557676906147176295
+    second: ataque boss_14
+  - first:
+      213: 297138189575835490
+    second: ataque boss_15
+  - first:
+      213: -7011976204958335394
+    second: ataque boss_16
+  - first:
+      213: 6435627772557564277
+    second: ataque boss_17
+  - first:
+      213: 426047822431810441
+    second: ataque boss_18
+  - first:
+      213: -3133823004502926058
+    second: ataque boss_19
+  - first:
+      213: -1311821014597292277
+    second: ataque boss_20
+  - first:
+      213: 3082336034063241280
+    second: ataque boss_21
+  - first:
+      213: -778193146691551095
+    second: ataque boss_22
+  - first:
+      213: 7633757719494824460
+    second: ataque boss_23
+  - first:
+      213: -2769477113639975304
+    second: ataque boss_24
+  - first:
+      213: 3078291981362060875
+    second: ataque boss_25
+  - first:
+      213: -288565798554050352
+    second: ataque boss_26
+  - first:
+      213: 3958481990852709285
+    second: ataque boss_27
+  - first:
+      213: -9133593107090174791
+    second: ataque boss_28
+  - first:
+      213: -3412811601693109166
+    second: ataque boss_29
+  - first:
+      213: 7053748207525986476
+    second: ataque boss_30
+  - first:
+      213: -7706582611014634071
+    second: ataque boss_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ataque boss_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b04f970c33ebef00800000000000000
+      internalID: 1147260377061343408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque boss_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 226
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08143c7207cc1380800000000000000
+      internalID: -8999099141905442803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque boss_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 226
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193695a4ad0499280800000000000000
+      internalID: -9036119871047769199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque boss_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 226
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3aeb298f841cd0800000000000000
+      internalID: -2588286066521130223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque boss_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 226
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f036954c2fef3d0800000000000000
+      internalID: -3170830162495074495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

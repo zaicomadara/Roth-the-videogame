@@ -1,0 +1,4 @@
+D:\beto 2021\Universidad 2020-2\tesis\UNITY videojuego\Roth the game 17-05-2021\Roth the game 15 de mayo\Roth the game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\beto 2021\Universidad 2020-2\tesis\UNITY videojuego\Roth the game 17-05-2021\Roth the game 15 de mayo\Roth the game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\beto 2021\Universidad 2020-2\tesis\UNITY videojuego\Roth the game 20-05-21\Roth the game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\beto 2021\Universidad 2020-2\tesis\UNITY videojuego\Roth the game 20-05-21\Roth the game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

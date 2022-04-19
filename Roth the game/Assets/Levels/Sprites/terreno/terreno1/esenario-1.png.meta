@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 7157b4ef812a35143bd421716615fe60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6539251626277339968
+    second: esenario-1_0
+  - first:
+      213: -3564745719389731791
+    second: esenario-1_1
+  - first:
+      213: -1936457860078728331
+    second: esenario-1_2
+  - first:
+      213: 3482046364097889537
+    second: esenario-1_3
+  - first:
+      213: 6063788562506186538
+    second: esenario-1_4
+  - first:
+      213: -1016659027640024888
+    second: esenario-1_5
+  - first:
+      213: -6606227637595373046
+    second: esenario-1_6
+  - first:
+      213: 1092656488371410151
+    second: esenario-1_7
+  - first:
+      213: -5679462241482948387
+    second: esenario-1_8
+  - first:
+      213: 7986478351340149169
+    second: esenario-1_9
+  - first:
+      213: 5076608429866232446
+    second: esenario-1_10
+  - first:
+      213: 7647494257021873571
+    second: esenario-1_11
+  - first:
+      213: 8994683654947014042
+    second: esenario-1_12
+  - first:
+      213: 5526961570085753439
+    second: esenario-1_13
+  - first:
+      213: -4449970279623368394
+    second: esenario-1_14
+  - first:
+      213: -3001845619882182063
+    second: esenario-1_15
+  - first:
+      213: -6557645429659327188
+    second: esenario-1_16
+  - first:
+      213: 5208967889863748826
+    second: esenario-1_17
+  - first:
+      213: 2926030684714818055
+    second: esenario-1_0
+  - first:
+      213: 90718426616401621
+    second: esenario-1_1
+  - first:
+      213: -5361284303111423410
+    second: esenario-1_2
+  - first:
+      213: -6540303486899698250
+    second: esenario-1_3
+  - first:
+      213: -7166402641626498033
+    second: esenario-1_4
+  - first:
+      213: 7611058479926295758
+    second: esenario-1_5
+  - first:
+      213: 7669205998200665549
+    second: esenario-1_6
+  - first:
+      213: -6291151953661753147
+    second: esenario-1_7
+  - first:
+      213: -4249930835676881217
+    second: esenario-1_8
+  - first:
+      213: -4491419993100484943
+    second: esenario-1_9
+  - first:
+      213: 7885958343438744230
+    second: esenario-1_10
+  - first:
+      213: 3490380290452689169
+    second: esenario-1_11
+  - first:
+      213: 5955502532862625612
+    second: esenario-1_12
+  - first:
+      213: 8366086801823130978
+    second: esenario-1_13
+  - first:
+      213: -1002802589166373904
+    second: esenario-1_14
+  - first:
+      213: -6464098022526721868
+    second: esenario-1_15
+  - first:
+      213: -817098594220000888
+    second: esenario-1_16
+  - first:
+      213: -7297024319268572246
+    second: esenario-1_17
+  - first:
+      213: -8640651103868268624
+    second: esenario-1_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 47
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: esenario-1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad15ca7695b9820800000000000000
+      internalID: 2926030684714818055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 249
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8d09adeb424100800000000000000
+      internalID: 90718426616401621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 249
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a7a25e454e895b0800000000000000
+      internalID: -5361284303111423410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 249
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5481471ac2c35a0800000000000000
+      internalID: -6540303486899698250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 249
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7e6444c2db8c90800000000000000
+      internalID: -7166402641626498033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 249
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3bb4cc59ef9960800000000000000
+      internalID: 7611058479926295758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 178
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5bb00e83e7e6a60800000000000000
+      internalID: 7669205998200665549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c88cfd41a651b8a0800000000000000
+      internalID: -6291151953661753147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 178
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe108b0c663505c0800000000000000
+      internalID: -4249930835676881217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 178
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be782610554ba1c0800000000000000
+      internalID: -4491419993100484943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab13ee45d807d60800000000000000
+      internalID: 7885958343438744230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111157f9162507030800000000000000
+      internalID: 3490380290452689169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 91
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474732000236a250800000000000000
+      internalID: 5955502532862625612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26560ceee9f4a1470800000000000000
+      internalID: 8366086801823130978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f375e4bb545512f0800000000000000
+      internalID: -1002802589166373904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06df5c819ea46a0800000000000000
+      internalID: -6464098022526721868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889bb01682519a4f0800000000000000
+      internalID: -817098594220000888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33c9cfa03cbba90800000000000000
+      internalID: -7297024319268572246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esenario-1_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf48d5e99d361880800000000000000
+      internalID: -8640651103868268624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

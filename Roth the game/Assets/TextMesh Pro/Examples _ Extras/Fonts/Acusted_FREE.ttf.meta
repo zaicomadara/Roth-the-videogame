@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ec0fe3bcfee8f06418f28fbb1f0cac40
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Acusted FREE
+  fontNames:
+  - Acusted FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e1adfa1a8d80964190a0fe86ccc212f, type: 3}
+  - {fileID: 12800000, guid: 59002fa761fd33c4f9a51cc79fe121b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
